@@ -47,3 +47,7 @@ The controller controls user input, and uses that input to manipulate an instanc
 [Wikipedia](https://en.wikipedia.org/wiki/Model–view–controller) has a good diagram of the MVC framework:
 
 ![MVC file](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
+
+## Further steps
+
+To proceed further in the polls app, refer to the Django tutorial linked at the beginning of the page.
