@@ -5,6 +5,7 @@ This is a short introduction to the Django framework. Django is a web developmen
 Now, what I want to focus on are the various components that make up a Django application. Mainly, the following three types of components: models, templates, and views. And these three types of components together make up the architecture that's central to Django, which is aptly called model template view, or MTV, for short.
 
 <strong>Features of Django</strong>
+
 Ridiculously fast.
 Django was designed to help developers take applications from concept to completion as quickly as possible.
 
@@ -17,4 +18,4 @@ Some of the busiest sites on the Web leverage Django’s ability to quickly and 
 Incredibly versatile.
 Companies, organizations and governments have used Django to build all sorts of things — from content management systems to social networks to scientific computing platforms.
 
-Source : <a href "https://www.djangoproject.com/">https://www.djangoproject.com/</a>
+Source : <a href ="https://www.djangoproject.com/">https://www.djangoproject.com</a>
