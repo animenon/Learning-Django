@@ -7,15 +7,19 @@ Now, what I want to focus on are the various components that make up a Django ap
 <strong>Features of Django</strong>
 
 Ridiculously fast.
+
 Django was designed to help developers take applications from concept to completion as quickly as possible.
 
 Reassuringly secure.
+
 Django takes security seriously and helps developers avoid many common security mistakes.
 
 Exceedingly scalable.
+
 Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
 
 Incredibly versatile.
+
 Companies, organizations and governments have used Django to build all sorts of things — from content management systems to social networks to scientific computing platforms.
 
 Source : <a href ="https://www.djangoproject.com/">https://www.djangoproject.com</a>
