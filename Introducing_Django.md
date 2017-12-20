@@ -26,4 +26,4 @@ It is exceedingly scalable. Some of the busiest sites on the Web leverage Django
 
 It is incredibly versatile. Companies, organizations and governments have used Django to build all sorts of things — from content management systems to social networks to scientific computing platforms.
 
-Source : <a href="https://www.djangoproject.com">https://www.djangoproject.com</a>
+Source : <a href="https://www.djangoproject.com/">https://www.djangoproject.com</a>
