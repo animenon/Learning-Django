@@ -41,3 +41,16 @@ Examples to Learn Python Django
 
 
 Source : <a href="https://www.djangoproject.com/">https://www.djangoproject.com</a>
+
+A very basic file structure in Django:
+--------------------------------------
+└── new_project
+    ├── new_project
+    │   ├── __init__.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    └── manage.py
+
+Here, the inner 'new_project' folder contains all the basic setup files like url and configurations.
+
