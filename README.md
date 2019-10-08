@@ -39,5 +39,15 @@ Examples to Learn Python Django
 
 3. "Introducing Django" gives an introduction to the Django language and briefly explains its features.
 
+Structure of a Django Project:
+```
+└── new_project
+    ├── new_project
+    │   ├── __init__.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    └── manage.py
+```
 
 Source : <a href="https://www.djangoproject.com/">https://www.djangoproject.com</a>
