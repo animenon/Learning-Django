@@ -1,5 +1,7 @@
 # Learning-Django
 
+[![DeepSource](https://deepsource.io/gh/animenon/Learning-Django.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/animenon/Learning-Django/?ref=repository-badge) [![DeepSource](https://deepsource.io/gh/animenon/Learning-Django.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/animenon/Learning-Django/?ref=repository-badge)
+
 <strong>Introducing Django</strong>
 
 This is a short introduction to the Django framework. Django is a web development
