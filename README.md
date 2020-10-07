@@ -41,6 +41,8 @@ Examples to Learn Python Django
 
 3. "Introducing Django" gives an introduction to the Django language and briefly explains its features.
 
+4. "Adding New Pages" shows how other pages can be easily built using existing template, allowing for uniformity.
+
 Structure of a Django Project:
 ```
 └── new_project
