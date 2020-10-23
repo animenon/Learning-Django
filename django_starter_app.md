@@ -38,6 +38,7 @@ polls/
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
+```
 ## MVC framework
 
 Before getting started, let's briefly examine the directory structure. Don't worry too much about the rest of the app, but you'll notice two files `models.py` and `views.py`.
