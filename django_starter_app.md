@@ -5,7 +5,7 @@ Adapted from: https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
 Now that you have completed the "Welcome to Django" example, it's time to create your first app.
 
-A project is a collection of apps. An app is a web application which performs an small task like career options of a website or polling section.
+A project is a collection of apps. An app is a web application which performs an small task like career options of a website, user info or polling section.
 
 From the command line, cd into `mysite` or whereever `manage.py` is. Then, run:
 
