@@ -5,6 +5,8 @@ Adapted from: https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
 Now that you have completed the "Welcome to Django" example, it's time to create your first app.
 
+A project is a collection of apps. An app is a web application which performs an small task like career options of a website or polling section.
+
 From the command line, cd into `mysite` or whereever `manage.py` is. Then, run:
 
 ```
@@ -24,6 +26,18 @@ polls/
   tests.py
   views.py
 ```
+
+## Add the apps name in INSTALLED_APPS in settings.py
+  ```
+  INSTALLED_APPS = [
+    'polls.apps.pollsConfig',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]
 ## MVC framework
 
 Before getting started, let's briefly examine the directory structure. Don't worry too much about the rest of the app, but you'll notice two files `models.py` and `views.py`.
